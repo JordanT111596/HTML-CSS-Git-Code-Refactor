@@ -1,6 +1,6 @@
 # HTML-CSS-Git-Code-Refactor
 Homework 1 by Jordan Triplett
-Completed 07/22/2020
+Completed 07/24/2020
 
 This assignment has us refactor our marketing agency's codebase to be more organized, appealing, and optimized for search engines while following current accessibility standards.
 
