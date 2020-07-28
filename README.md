@@ -8,4 +8,4 @@ The source code in both the HTML and CSS has been updated with semantic HTML ele
 
 This site can be found at https://jordant111596.github.io/HTML-CSS-Git-Code-Refactor/
 
-![Image of Deployed Website](assets/images/Deployed Page Screenshot.png)
+![Image of Deployed Site](assets/images/Deployed-Page-Screenshot.png?raw=true "Image of the Deployed Website")
